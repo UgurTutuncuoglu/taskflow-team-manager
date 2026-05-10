@@ -105,4 +105,4 @@ This project is deployed using GitHub Pages.
 
 # Author
 
-Developed by [Uğur Tütüncüoğlu]
+Developed by Uğur Tütüncüoğlu
