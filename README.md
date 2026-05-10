@@ -103,6 +103,11 @@ This project is deployed using GitHub Pages.
 
 ---
 
+## 🔗 Project Links
+
+- GitHub Repository: https://github.com/UgurTutuncuoglu/taskflow-team-manager
+- Live Demo (GitHub Pages): https://ugurtutuncuoglu.github.io/taskflow-team-manager
+
 # Author
 
 Developed by Uğur Tütüncüoğlu
