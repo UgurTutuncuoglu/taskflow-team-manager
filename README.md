@@ -106,4 +106,3 @@ This project is deployed using GitHub Pages.
 # Author
 
 Developed by Uğur Tütüncüoğlu
->>>>>>> a5384c86c977d79739c5ffb43a7a2599e74340e8
