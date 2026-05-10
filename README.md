@@ -75,7 +75,8 @@ Each task contains:
 
 ## Home Page
 
-(Add screenshot here)
+<img width="1906" height="920" alt="Ekran görüntüsü 2026-05-10 173315" src="https://github.com/user-attachments/assets/2d3fc5ae-88da-42e9-933c-99ba9ee7fa49" />
+
 
 ---
 
