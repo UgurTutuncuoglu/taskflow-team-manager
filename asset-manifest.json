@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UgurTutuncuoglu/taskflow-team-manager.git/static/css/main.211d0d6e.css",
+    "main.js": "/UgurTutuncuoglu/taskflow-team-manager.git/static/js/main.504f914c.js",
+    "static/media/bootstrap-icons.woff?": "/UgurTutuncuoglu/taskflow-team-manager.git/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/UgurTutuncuoglu/taskflow-team-manager.git/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/UgurTutuncuoglu/taskflow-team-manager.git/index.html",
+    "main.211d0d6e.css.map": "/UgurTutuncuoglu/taskflow-team-manager.git/static/css/main.211d0d6e.css.map",
+    "main.504f914c.js.map": "/UgurTutuncuoglu/taskflow-team-manager.git/static/js/main.504f914c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.211d0d6e.css",
+    "static/js/main.504f914c.js"
+  ]
+}
